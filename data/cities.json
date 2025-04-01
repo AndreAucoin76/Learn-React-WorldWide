@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "id": "2c41",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-01T19:31:46.246Z",
+      "notes": "",
+      "position": {
+        "lat": "39.99711190624385",
+        "lng": "0.0037765502929687504"
+      }
+    },
+    {
+      "id": "d974",
+      "cityName": "Saint John",
+      "country": "Canada",
+      "emoji": "🇨🇦",
+      "date": "2025-04-01T19:47:54.294Z",
+      "notes": "Enjoyed city ",
+      "position": {
+        "lat": "45.276336008614926",
+        "lng": "-66.06319427490236"
+      }
+    }
+  ]
+}
